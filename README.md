@@ -1,5 +1,6 @@
 ## Mozdock-php
 > A personal spinoff off laradock
+> Built off the laradock project
 
 #### The Idea
 
